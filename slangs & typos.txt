@@ -3155,3 +3155,5 @@ system : sistem
 reviewnya : review
 spek : spesifikasi
 apk : aplikasi
+dsini : disini
+gaes : guys
