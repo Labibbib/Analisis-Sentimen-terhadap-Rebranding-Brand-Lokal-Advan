@@ -62,6 +62,6 @@ Advan merupakan brand lokal yang sempat bersinar di pasar smartphone Indonesia. 
 | Nama | NIM | Kontribusi |
 | -------- | -------- |  -------- |
 | Ahmad Izza   | 11220940000006   |  Scraping, labeling, preprocessing, mencari insight, presentator  |
-| Alif Alamasyah | 11220940000028   |  Scraping, labeling, preprocessing, mencari insight, presentator   |
+| Alif Alamsyah | 11220940000028   |  Scraping, labeling, preprocessing, mencari insight, presentator   |
 | Ahmad Fauzan | 11220940000031  |  Scraping, labeling, preprocessing, mencari insight, presentator  |
 | Ibnullabib | 11210940000037   | Scraping, labeling, preprocessing, mencari insight, presentator  |
