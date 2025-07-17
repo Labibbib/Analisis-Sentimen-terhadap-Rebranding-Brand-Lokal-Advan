@@ -1,5 +1,13 @@
 # **ADVAN Bangkit! Analisis Sentimen Publik terhadap Bangkitnya Brand Lokal Advan di Era Dominasi Brand Asing**
 
+---
+
+## Video Penjelasan Analisis
+
+-> https://youtu.be/m9Ts4UXfFY0
+
+---
+
 # **Preprocess Data**
 
 ---
