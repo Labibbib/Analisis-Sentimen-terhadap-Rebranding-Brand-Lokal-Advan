@@ -52,8 +52,16 @@ Advan merupakan brand lokal yang sempat bersinar di pasar smartphone Indonesia. 
         *   [Advan WorkPro Series – AI Inside](https://www.youtube.com/watch?v=npDzS9mZlXI)
         *   [Advan #Bangkit Campaign Video](https://www.youtube.com/watch?v=BxdZm7PUIaw)
         *   [Test Kamera Advan AI Phone](https://www.youtube.com/watch?v=bTljfq7VTQs)
-        *      [Advan 2025 Vision – Rebranding Campaign](https://www.youtube.com/watch?v=ofWSHfTYtVk)
+        *   [Advan 2025 Vision – Rebranding Campaign](https://www.youtube.com/watch?v=ofWSHfTYtVk)
         *   [Official Advan Promo – AI Revolution](https://www.youtube.com/watch?v=5E4qGaWX0LU)
 
 
   Pemilihan video dilakukan secara purposif berdasarkan popularitas dan relevansi kontennya dengan narasi brand Advan pada masing-masing periode.
+
+# Kontributor
+| Nama | NIM | Kontribusi |
+| -------- | -------- |  -------- |
+| Ahmad Izza   | 11220940000006   |  Scraping, labeling, preprocessing, mencari insight, presentator  |
+| Alif Alamasyah | 11220940000028   |  Scraping, labeling, preprocessing, mencari insight, presentator   |
+| Ahmad Fauzan | 11220940000031  |  Scraping, labeling, preprocessing, mencari insight, presentator  |
+| Ibnullabib | 11210940000037   | Scraping, labeling, preprocessing, mencari insight, presentator  |
